@@ -4,4 +4,4 @@ A brief description of my tech-skills i learned
 
 ## Versions
 
-v1 - basic setup
+v1 - basic setup and learned github
